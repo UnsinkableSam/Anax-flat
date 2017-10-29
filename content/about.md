@@ -1,10 +1,8 @@
 About this site
 ==============================================
 
-The primary focus of this site is to:
-
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
-
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+Det här är kursen design på Blekinge tekniska högskola.
+Kursen handlar om att lära oss webbdesign. Kursen har tekniken som
+utgångspunk, där olika tekniker introduceras och används för att underlätta
+webbdesign och användbarhet för webbplatsen med syftet att skapa korrekt och
+användarvänlig webbplats.

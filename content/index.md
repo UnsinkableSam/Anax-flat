@@ -4,11 +4,14 @@ titleBreadcrumb: Home
 A website using Anax Flat
 ===============================
 
-Hi there.
+Tja! Sam här!
+Jag är en kille från Ronneby som älskar programmering och ny teknik! Jag
+har lekt runt med massor av olika språk ruby, java, c#, c++ och många andra.
+Jag hade svårt att dedikera mig till bara ett språk. Jag har även
+studerat kursena htmlphp och python här på bth.
+När jag inte håller mig framför datorn och studerar programmering så gillar jag
+träna på gym och mma.
 
-Nice of you to stop by.
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
 
-Cheers and happy building of websites,  
-/Mikael
+![Min avatar](img/diablogif.gif)

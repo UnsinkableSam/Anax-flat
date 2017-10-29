@@ -84,7 +84,8 @@ return [
                         "contentRoute" => "block/footer-col-1",
                     ],
                     [
-                        "contentRoute" => "block/footer-col-2",
+                        #"contentRoute" => "block/footer-col-2",
+                        "contentRoute" => "block/byline",
                     ],
                     [
                         "contentRoute" => "block/footer-col-3",
