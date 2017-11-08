@@ -13,4 +13,14 @@ v1.0.1 (2017-10-31)
 * Add design element in less file.
 * Add header less file.
 * Add burger menu.
- 
+
+
+v1.0.1 (2017-10-31)
+---------------------------------------
+* Make site responsive.
+* Add burger menu.
+* styled with less.
+* added header.less.
+* added modules.
+* normalize.less.
+* regions.less.
