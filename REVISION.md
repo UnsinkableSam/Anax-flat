@@ -24,3 +24,9 @@ v1.0.1 (2017-10-31)
 * added modules.
 * normalize.less.
 * regions.less.
+
+
+v2.0.0 (2017-10-31)
+---------------------------------------
+* Styled website header, footer and everything between.
+* Made responsive for phone and pads.
